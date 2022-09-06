@@ -1,11 +1,13 @@
 {
   "name": "@tonightpass/expo-fonts-plus-jakarta-sans",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Use the Plus Jakarta Sans font family from Tokotype in your Expo app",
   "main": "index.js",
   "repository": "https://github.com/tonightpass/expo-fonts.git",
   "homepage": "https://github.com/tonightpass/expo-fonts/tree/master/font-packages/plus-jakarta-sans#readme",
   "author": "Tonight Pass <developers@tonightpass.com>",
   "license": "MIT",
-  "publishConfig": { "access": "public" }
+  "publishConfig": {
+    "access": "public"
+  }
 }
